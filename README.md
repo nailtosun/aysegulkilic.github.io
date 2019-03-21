@@ -1,18 +1,35 @@
-## Welcome to GitHub Pages
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 
-You can use the [editor on GitHub](https://github.com/aysegulkilic/aysegulkilic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Personal Webpage
+Hi, I am Ayşegül. I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department. I am an undergraduate researcher at [CEMMETU](http://cem.eee.metu.edu.tr/). My research topics are;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Bullet 1
+* Bullet 2
 
-### Markdown
+## Research Experiences & Projects
+Here comes projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Honours & Awards
+## Voluntariness
 
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted

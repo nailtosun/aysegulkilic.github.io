@@ -1,6 +1,6 @@
 ## Personal Webpage
 Hi, I am Ayşegül. I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department. I am an undergraduate researcher at [CEMMETU](http://cem.eee.metu.edu.tr/). You can download my CV [here](/docs/cv.pdf)
-
+ <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
 ## Research Experiences & Internships
 * CEMMETU, Undergraduate Researcher
 Currently working on a project which implements the basic idea of Electromagnetic Theory to build a high efficiency Wide-band Horn Antenna.

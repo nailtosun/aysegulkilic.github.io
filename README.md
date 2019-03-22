@@ -1,5 +1,5 @@
 ## Personal Webpage
-Hi, I am Ayşegül. I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department. I am an undergraduate researcher at [CEMMETU](http://cem.eee.metu.edu.tr/). My research topics are;
+Hi, I am Ayşegül. I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department. I am an undergraduate researcher at [CEMMETU](http://cem.eee.metu.edu.tr/). You can download my CV [here](/docs/cv.pdf)
 
 ## Research Experiences & Internships
 * CEMMETU, Undergraduate Researcher

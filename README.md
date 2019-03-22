@@ -1,4 +1,3 @@
-<span style="font-family: Babas; font-size: 11px;">
 ## Personal Webpage
 Hi, I am Ayşegül. I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department. I am an undergraduate researcher at [CEMMETU](http://cem.eee.metu.edu.tr/). You can download my CV [here](/docs/cv.pdf)
 
@@ -26,9 +25,7 @@ I designed a single-axis solar tracking system. The actuator of the system is se
 * TEGV, Educational Volunteer
 The objective of TEGV is to provide educational programs and activities to help our elementary education level children become citizens who are loyal to the basic tenets of our republic, who are rational, prudent, self-confident, creative, pacifist, respecful of different beliefs and thoughts, and who do not discriminate based on gender, na onality, religion or language.
 * LODOS, Volunteer
-LODOS is a student community established in METU Cultural Affairs with the aim of providing socially complementary activities for our children with leukemia and mentally disabled individuals
-
-
+<span style="font-family: Babas; font-size: 11px;">LODOS is a student community established in METU Cultural Affairs with the aim of providing socially complementary activities for our children with leukemia and mentally disabled individuals
 </span>
 
 

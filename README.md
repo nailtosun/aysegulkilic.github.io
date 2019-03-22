@@ -1,13 +1,13 @@
-## <span style="font-family: Times New Roman; font-size: 16px;">Personal Webpage</span>
-<span style="font-family: Times New Roman; font-size: 16px;">Hi, I am Ayşegül. I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department. I am an undergraduate researcher at [CEMMETU](http://cem.eee.metu.edu.tr/). You can download my CV [here](/docs/cv.pdf)</span>
+## <span style="font-family: Times New Roman; font-size: 24px;">Personal Webpage</span>
+<span style="font-family: Times New Roman; font-size: 20px;">Hi, I am Ayşegül. I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department. I am an undergraduate researcher at [CEMMETU](http://cem.eee.metu.edu.tr/). You can download my CV [here](/docs/cv.pdf)</span>
 
-## <span style="font-family: Times New Roman; font-size: 16px;">Research Experiences & Internships</span>
-* <span style="font-family: Times New Roman; font-size: 16px;">CEMMETU, Undergraduate Researcher</span>
-<span style="font-family: Times New Roman; font-size: 16px;">Currently working on a project which implements the basic idea of Electromagnetic Theory to build a high efficiency Wide-band Horn Antenna.</span>
-* <span style="font-family: Times New Roman; font-size: 16px;">IRIS TELECOMMUNICATION-NOKIA, Intern</span>
-<span style="font-family: Times New Roman; font-size: 16px;">Fiber Optic Infrastructure Web Mapping Application</span>
+## <span style="font-family: Times New Roman; font-size: 24px;">Research Experiences & Internships</span>
+* <span style="font-family: Times New Roman; font-size: 20px;">CEMMETU, Undergraduate Researcher</span>
+<span style="font-family: Times New Roman; font-size: 20px;">Currently working on a project which implements the basic idea of Electromagnetic Theory to build a high efficiency Wide-band Horn Antenna.</span>
+* <span style="font-family: Times New Roman; font-size: 20px;">IRIS TELECOMMUNICATION-NOKIA, Intern</span>
+<span style="font-family: Times New Roman; font-size: 20px;">Fiber Optic Infrastructure Web Mapping Application</span>
 
-## Projects
+## <span style="font-family: Times New Roman; font-size: 24px;">Projects</span>
 * <span style="font-family: Times New Roman; font-size: 16px;">Design Of An Optical Wıreless Communicatıon System: Photo-Phone</span>
 <span style="font-family: Times New Roman; font-size: 16px;">In this project, I designed wireless communication system which use visible light to transmit sound signals. The project is inspired from Bell’s first wireless telephone system.</span>
 * <span style="font-family: Times New Roman; font-size: 16px;">One Axis Helicopter</span>

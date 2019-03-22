@@ -22,10 +22,10 @@ I designed a single-axis solar tracking system. The actuator of the system is se
 * MCNA Network, IoT, Feb 2018 – Jan 2018 | Ankara, TR
 
 ## Voluntariness
-* TEGV, Educational Volunteer
-The objective of TEGV is to provide educational programs and activities to help our elementary education level children become citizens who are loyal to the basic tenets of our republic, who are rational, prudent, self-confident, creative, pacifist, respecful of different beliefs and thoughts, and who do not discriminate based on gender, na onality, religion or language.
+* <span style="font-family: Babas; font-size: 14px;">TEGV, Educational Volunteer</span>
+<span style="font-family: Babas; font-size: 14px;">The objective of TEGV is to provide educational programs and activities to help our elementary education level children become citizens who are loyal to the basic tenets of our republic, who are rational, prudent, self-confident, creative, pacifist, respecful of different beliefs and thoughts, and who do not discriminate based on gender, na onality, religion or language.</span>
 * LODOS, Volunteer
-<span style="font-family: Babas; font-size: 11px;">LODOS is a student community established in METU Cultural Affairs with the aim of providing socially complementary activities for our children with leukemia and mentally disabled individuals
+<span style="font-family: Babas; font-size: 14px;">LODOS is a student community established in METU Cultural Affairs with the aim of providing socially complementary activities for our children with leukemia and mentally disabled individuals
 </span>
 
 
